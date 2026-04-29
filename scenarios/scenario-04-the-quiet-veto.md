@@ -1,8 +1,8 @@
-# Scenario 04 — The quiet veto
+# Scenario 04: The quiet veto
 
 ## Setup
 
-An ART has been working for three PIs on a platform initiative that requires sign-off from the head of an adjacent function — call him D. — whose group owns a downstream system the initiative integrates with. D. has never said no to the initiative. He has also never said yes.
+An ART has been working for three PIs on a platform initiative that requires sign-off from the head of an adjacent function (call him D.) whose group owns a downstream system the initiative integrates with. D. has never said no to the initiative. He has also never said yes.
 
 The pattern, viewed across nine months:
 
@@ -35,18 +35,18 @@ In the most recent PI planning, three teams declined to take dependencies on the
 
 1. The clearest description of the situation involves saying that D. is blocking the work without saying so. Is that a description the RTE can put in writing? What changes if it is written down versus only spoken?
 2. D.'s direct reports have signalled that he has unarticulated concerns. What are the legitimate ways to surface those, and what are the ways that would damage the RTE's relationship with both D. and his reports?
-3. The teams' workarounds are creating debt. Is the right move to stop the workarounds — forcing the dependency to bite — or to continue them and document the cost? Defend your answer.
+3. The teams' workarounds are creating debt. Is the right move to stop the workarounds (forcing the dependency to bite), or to continue them and document the cost? Defend your answer.
 4. The STE's escalation got a polite deflection. What would a second escalation need to look like to produce a different result, and what is the cost of making it?
 5. D. has been at the company for fifteen years. The RTE has been in role for eleven months. What does that asymmetry mean for the kinds of conversation that are available to the RTE versus the kinds that are not?
-6. Imagine a version of this where D. is right — there is a real concern with the integration that he has not been able to articulate, and the workarounds are accumulating risk that will surface badly. What would the RTE need to do differently to discover that?
+6. Imagine a version of this where D. is right: there is a real concern with the integration that he has not been able to articulate, and the workarounds are accumulating risk that will surface badly. What would the RTE need to do differently to discover that?
 
 ## Facilitator notes
 
-This scenario reliably surfaces a divide in how participants think about organisational power. One group will frame D. as a problem of misuse — he has authority and is using it passively to obstruct work he hasn't justified obstructing. Another group will frame him as a signal — careful people who go quiet usually have a reason, and the work of the RTE is to find it before assuming bad faith. Both readings are defensible from the setup.
+This scenario reliably surfaces a divide in how participants think about organisational power. One group will frame D. as a problem of misuse: he has authority and is using it passively to obstruct work he hasn't justified obstructing. Another group will frame him as a signal: careful people who go quiet usually have a reason, and the work of the RTE is to find it before assuming bad faith. Both readings are defensible from the setup.
 
 The richest discussions happen when participants are pushed to articulate what evidence would shift them from one framing to the other. Many will not have thought about it.
 
-A common trap: the proposed intervention is "have a direct conversation with D.". This is rarely wrong but is almost always insufficient on its own. The conversation can only succeed if it is not the first move — if the RTE has already done enough work to know what to ask, and if the conversation is positioned as an offer to remove a blocker rather than a request for an explanation.
+A common trap: the proposed intervention is "have a direct conversation with D.". This is rarely wrong but is almost always insufficient on its own. The conversation can only succeed if it is not the first move. The RTE has to have already done enough work to know what to ask, and the conversation has to be positioned as an offer to remove a blocker rather than a request for an explanation.
 
 Another trap: framing this as a process problem fixable with a RACI or an integration governance board. Those interventions can work, but only after the underlying concern is named. Building governance around an unspoken disagreement entrenches it.
 

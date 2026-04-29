@@ -1,8 +1,8 @@
-# Scenario 06 — The departing champion
+# Scenario 06: The departing champion
 
 ## Setup
 
-A product manager — call her L. — has resigned. She has eight weeks of notice. Over four years she has become the connective tissue between the business side and the engineering organisation: she runs the quarterly stakeholder review that every executive attends; she has the relationships with the three external customers whose feedback shapes roadmap decisions; she is the only person who knows why the architectural decision in the third PI was made the way it was, and that decision is now being revisited.
+A product manager (call her L.) has resigned. She has eight weeks of notice. Over four years she has become the connective tissue between the business side and the engineering organisation: she runs the quarterly stakeholder review that every executive attends; she has the relationships with the three external customers whose feedback shapes roadmap decisions; she is the only person who knows why the architectural decision in the third PI was made the way it was, and that decision is now being revisited.
 
 Her replacement has not been named. Hiring is open externally. HR estimates a realistic timeline of three to four months from open req to onboarded.
 

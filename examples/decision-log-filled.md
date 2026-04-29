@@ -1,4 +1,4 @@
-# Decision log — example
+# Decision log: example
 
 A worked example of the decision log (`worksheets/decision-log.md`), filled in against Scenario 03: *The executive promise*. The decision being recorded is the one made in week three after the executive's commitment surfaced. The example shows the format under realistic conditions where the decision is uncomfortable and partial.
 
@@ -30,7 +30,7 @@ The Q3 capability committed to the customer at the advisory board will ship as a
 
 ### What was not decided
 
-- Whether the original commitment process — an executive committing in a customer setting without consulting the trains — will be addressed structurally. This is on the next leadership offsite agenda.
+- Whether the original commitment process (an executive committing in a customer setting without consulting the trains) will be addressed structurally. This is on the next leadership offsite agenda.
 - Whether the customer will be offered any commercial concession to absorb the slip. Account management is taking that decision separately.
 - The PI 4 detailed plan for the four deferred flows.
 - Whether the head of product management's role in the original commitment will be clarified to the customer. R. has been asked to handle this; the form of the handling has not been specified.

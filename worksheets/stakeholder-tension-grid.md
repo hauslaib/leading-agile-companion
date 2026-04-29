@@ -69,14 +69,14 @@ Asymmetric relationships are where unilateral interventions misfire most often. 
 
 Two patterns are worth marking explicitly.
 
-**Coalitions** — groups of three or more stakeholders whose alignment is high enough that they tend to move together on contested questions. Coalitions are not necessarily a problem; they become one when their existence is denied.
+**Coalitions:** groups of three or more stakeholders whose alignment is high enough that they tend to move together on contested questions. Coalitions are not necessarily a problem; they become one when their existence is denied.
 
 | Coalition members | What they tend to align on |
 |---|---|
 | | |
 | | |
 
-**Triangles** — three-party patterns where two parties communicate primarily through a third rather than directly. Triangles are stable but expensive; they place a load on the third party that often becomes unsustainable.
+**Triangles:** three-party patterns where two parties communicate primarily through a third rather than directly. Triangles are stable but expensive; they place a load on the third party that often becomes unsustainable.
 
 | The two parties | The third party they route through | What they are avoiding by not communicating directly |
 |---|---|---|

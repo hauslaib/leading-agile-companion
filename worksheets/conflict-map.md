@@ -23,7 +23,7 @@ If the paragraph runs longer than five sentences, you are probably including int
 List every party with a stake in the situation. Include people not currently in the conversation. For each, note:
 
 - Their role in the situation, in one phrase.
-- What they are protecting, in one sentence. Not what they are advocating for — what they are *protecting*. The two are often different.
+- What they are protecting, in one sentence. Not what they are advocating for. What they are *protecting*. The two are often different.
 - Their formal authority over the outcome, on a three-point scale: none, partial, full.
 
 | Party | Role in the situation | What they are protecting | Authority |
@@ -38,7 +38,7 @@ If the table has fewer than three rows, you are probably missing parties. Common
 
 ## 3. The tensions
 
-A tension is a structural force in the situation that does not disappear when one party gets what they want. List the tensions in play. For each, note who is on each side, and whether the tension is *legitimate* — meaning both sides are protecting something real — or *constructed* — meaning the tension exists because of a process or framing choice that could be made differently.
+A tension is a structural force in the situation that does not disappear when one party gets what they want. List the tensions in play. For each, note who is on each side, and whether the tension is *legitimate* (both sides are protecting something real) or *constructed* (the tension exists because of a process or framing choice that could be made differently).
 
 | Tension | Sides | Legitimate or constructed? |
 |---|---|---|
@@ -56,9 +56,11 @@ This section is mandatory. List at least three things that look like the problem
 
 Examples of what often appears in this section: individual competence, the formal process, a single recent event, a personality difference. None of these is necessarily off-limits, but most are misdiagnoses on first inspection.
 
-- *(write here)*
-- *(write here)*
-- *(write here)*
+> *(write here)*
+
+> *(write here)*
+
+> *(write here)*
 
 ---
 

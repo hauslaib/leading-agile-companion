@@ -1,4 +1,4 @@
-# Conflict map — example
+# Conflict map: example
 
 A worked example of the conflict map worksheet (`worksheets/conflict-map.md`), filled in against Scenario 01: *Misaligned product and architecture*. The example is one possible filled version, completed by a hypothetical STE in week six of the PI. It is not the model answer; it is one practitioner's reading of the situation in enough detail that the format is unambiguous.
 
@@ -16,8 +16,8 @@ Six weeks into the PI, three teams across two ARTs have missed the first checkpo
 |---|---|---|---|
 | Head of Product (HoP) | Sets the customer-facing feature commitments for the PI | Customer outcomes and the product team's credibility with stakeholders | Partial |
 | Head of Architecture (HoA) | Drives the platform refactor across the trains | Long-term system health and architectural decisions made over the previous PI | Partial |
-| RTE — ART A | Surface-level coordination across three teams primarily aligned with HoP's plan | Their teams' delivery commitments and morale | Partial |
-| RTE — ART B | Surface-level coordination across two teams primarily aligned with HoA's plan | Same as ART A's RTE | Partial |
+| RTE (ART A) | Surface-level coordination across three teams primarily aligned with HoP's plan | Their teams' delivery commitments and morale | Partial |
+| RTE (ART B) | Surface-level coordination across two teams primarily aligned with HoA's plan | Same as ART A's RTE | Partial |
 | STE (me) | Cross-train coordination | The credibility of the solution train as a coordination mechanism | Partial |
 | Director of Engineering | Line manages HoP, HoA, and STE | Quarterly delivery commitments to the executive group | Full (rarely uses it) |
 | Affected teams | Doing the work | Their own coherence and the avoidance of being whipsawed | None |
@@ -84,7 +84,7 @@ Reading: relationship with HoA is the weakest component. A joint workshop now wo
 >
 > **If it fails:**
 >
-> One or both of HoP and HoA experiences the 1:1 as the STE taking sides. The joint session does not happen, or happens as a polite re-statement of original positions. The teams continue absorbing the conflict for the rest of the PI, and the failure mode escalates to the Director by week 10 — at which point the conversation happens with less of my framing and more of theirs.
+> One or both of HoP and HoA experiences the 1:1 as the STE taking sides. The joint session does not happen, or happens as a polite re-statement of original positions. The teams continue absorbing the conflict for the rest of the PI, and the failure mode escalates to the Director by week 10, at which point the conversation happens with less of my framing and more of theirs.
 >
 > **Cost regardless:**
 >
@@ -98,4 +98,4 @@ Reading: relationship with HoA is the weakest component. A joint workshop now wo
 
 ---
 
-*This example is illustrative. The same scenario, filled in by a different STE, would produce a recognisably different worksheet — and that is the format working as intended.*
+*This example is illustrative. The same scenario, filled in by a different STE, would produce a recognisably different worksheet. That is the format working as intended.*

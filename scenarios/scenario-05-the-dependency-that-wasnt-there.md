@@ -1,4 +1,4 @@
-# Scenario 05 — The dependency that wasn't there
+# Scenario 05: The dependency that wasn't there
 
 ## Setup
 
@@ -40,7 +40,7 @@ The two RTEs are professional with each other in front of the STE and visibly le
 
 ## Facilitator notes
 
-This scenario tends to surface participants' theories of organisational communication. Some will frame the failure as a process gap (the right channel did not exist, or was not used). Others will frame it as a relational gap (ART B's RTE should have walked over and said it). Both framings are correct in different proportions, and the right intervention usually combines the two — a process that creates the prompt for a relational conversation, rather than one that replaces it.
+This scenario tends to surface participants' theories of organisational communication. Some will frame the failure as a process gap (the right channel did not exist, or was not used). Others will frame it as a relational gap (ART B's RTE should have walked over and said it). Both framings are correct in different proportions, and the right intervention usually combines the two: a process that creates the prompt for a relational conversation, rather than one that replaces it.
 
 A trap to watch for: the proposed solution is "all dependency changes go through the STE for approval". This sounds reasonable and is almost always too brittle to last beyond the PI it was created in. STEs cannot be the sole bottleneck for cross-train coordination at any meaningful scale; the proposal usually reveals itself as wishful thinking within two iterations. Push participants to design a mechanism that does not require heroics.
 

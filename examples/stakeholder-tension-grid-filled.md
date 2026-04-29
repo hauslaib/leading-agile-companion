@@ -1,4 +1,4 @@
-# Stakeholder tension grid — example
+# Stakeholder tension grid: example
 
 A worked example of the stakeholder tension grid (`worksheets/stakeholder-tension-grid.md`), filled in against Scenario 02: *The skeptical senior engineer*. The example is one possible filled version, completed by the RTE in the third month of the role. It is not the model answer; it is one practitioner's reading.
 
@@ -8,7 +8,7 @@ A worked example of the stakeholder tension grid (`worksheets/stakeholder-tensio
 
 | Label | Role | Seniority |
 |---|---|---|
-| RTE | The author of the worksheet, two months in role | — |
+| RTE | The author of the worksheet, two months in role |  |
 | M. | Senior engineer, twelve years tenured, technically respected | Peer in role; senior in standing |
 | LM | M.'s line manager, the engineering manager for M.'s team | Peer |
 | AR | The ART architect | Peer |
@@ -74,7 +74,7 @@ The second triangle is the one to disrupt. If it persists past PI 4, the RTE-to-
 | Stakeholder | Authority | Relationship | Notes |
 |---|---|---|---|
 | RTE | Moderate (process) | Weak with M., moderate elsewhere | Cannot lead an intervention with M. directly yet |
-| LM | Strong (line) | Strong with M. | Is the right person to surface concerns about M.'s position to M. — but only if she chooses to, and only on the right footing |
+| LM | Strong (line) | Strong with M. | Is the right person to surface concerns about M.'s position to M., but only if she chooses to, and only on the right footing |
 | AR | None over M.'s engagement | Moderate | Could open a substantive technical conversation with M. that incidentally surfaces engagement |
 | PO | None over engagement | Moderate | Not a fit for this intervention |
 
@@ -94,4 +94,4 @@ The grid does not capture M.'s history with the previous three transformations, 
 
 ---
 
-*This example is illustrative. The same scenario, filled in by a different RTE, would produce a recognisably different grid — and that is the format working as intended.*
+*This example is illustrative. The same scenario, filled in by a different RTE, would produce a recognisably different grid. That is the format working as intended.*

@@ -1,12 +1,12 @@
-# Scenario 03 — The executive promise
+# Scenario 03: The executive promise
 
 ## Setup
 
-At a customer advisory board meeting, a senior executive — call him R. — committed publicly to delivering a major capability "by the end of Q3". The capability sits across two ARTs in the solution train. R. did not consult either RTE before making the commitment. He did not consult the system architect. He did consult the head of product management, who nodded but later said she had been answering a different question.
+At a customer advisory board meeting, a senior executive (call him R.) committed publicly to delivering a major capability "by the end of Q3". The capability sits across two ARTs in the solution train. R. did not consult either RTE before making the commitment. He did not consult the system architect. He did consult the head of product management, who nodded but later said she had been answering a different question.
 
 The commitment is now in the customer's quarterly roadmap deck. R. has mentioned it twice in all-hands. Marketing has begun drafting launch material.
 
-The two RTEs, working with their architects, estimate the capability at roughly twice the available capacity for the period, assuming nothing else slips. To hit Q3 they would have to descope two PI objectives that another executive — call her S. — has already committed to a different customer.
+The two RTEs, working with their architects, estimate the capability at roughly twice the available capacity for the period, assuming nothing else slips. To hit Q3 they would have to descope two PI objectives that another executive (call her S.) has already committed to a different customer.
 
 R. believes the train is protecting capacity. The RTEs believe R. has overcommitted. The head of product management believes she is being made the scapegoat for a conversation she did not actually have. S. has not yet been told that her commitments are at risk.
 
@@ -38,7 +38,7 @@ The STE finds out about the commitment from a customer-facing slide deck forward
 
 ## Facilitator notes
 
-This scenario tends to produce two opposing first instincts. The first is to "go fix it" — convene the executives, run the numbers, force a decision. The second is to "stay in lane" — surface the conflict to the relevant accountable parties and let them resolve it. Neither is wrong; both have failure modes worth surfacing.
+This scenario tends to produce two opposing first instincts. The first is to "go fix it": convene the executives, run the numbers, force a decision. The second is to "stay in lane": surface the conflict to the relevant accountable parties and let them resolve it. Neither is wrong; both have failure modes worth surfacing.
 
 The "go fix it" instinct often underestimates how much of the problem is political rather than technical. The capacity arithmetic is the easy part. The harder part is letting R. retract the commitment without losing face, and that is not the STE's job to engineer.
 

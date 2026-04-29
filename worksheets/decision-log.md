@@ -48,7 +48,7 @@ The date the decision was made, not the date of the meeting in which it was disc
 
 ### What was decided
 
-Two to four sentences. State the decision in operational terms — what changes, for whom, starting when. Avoid hedging language; if the decision is hedged, the hedges go in *constraints* below, not in the statement itself.
+Two to four sentences. State the decision in operational terms: what changes, for whom, starting when. Avoid hedging language; if the decision is hedged, the hedges go in *constraints* below, not in the statement itself.
 
 > *(write here)*
 
@@ -56,8 +56,9 @@ Two to four sentences. State the decision in operational terms — what changes,
 
 Equally important. List the questions that were raised in the discussion and were *not* resolved by this decision, even if they touch the same topic. The not-decided list is what prevents the log from being read later as more authoritative than it is.
 
-- *(write here)*
-- *(write here)*
+> *(write here)*
+
+> *(write here)*
 
 ### What was deprioritised
 
@@ -96,8 +97,9 @@ The *dissented* row is a deliberate inclusion. Disagreement that is named and re
 
 The conditions under which this decision is the right one. Be concrete. Vague assumptions ("market conditions remain stable") are not actionable; specific ones ("we retain the four engineers currently allocated to ART B") are.
 
-- *(write here)*
-- *(write here)*
+> *(write here)*
+
+> *(write here)*
 
 ### When this should be revisited
 
@@ -135,7 +137,7 @@ References to related artefacts. Common ones:
 - Earlier decision records superseded or extended by this one.
 - The retrospective or planning event in which the decision originated.
 
-- *(write here)*
+> *(write here)*
 
 ---
 
