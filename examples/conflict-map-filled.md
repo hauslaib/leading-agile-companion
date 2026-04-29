@@ -1,4 +1,4 @@
-# Conflict map — example
+# Example: Conflict map
 
 A worked example of the conflict map worksheet (`worksheets/conflict-map.md`), filled in against Scenario 01: *Misaligned product and architecture*. The example is one possible filled version, completed by a hypothetical STE in week six of the PI. It is not the model answer; it is one practitioner's reading of the situation in enough detail that the format is unambiguous.
 
@@ -84,7 +84,7 @@ Reading: relationship with HoA is the weakest component. A joint workshop now wo
 >
 > **If it fails:**
 >
-> One or both of HoP and HoA experiences the 1:1 as the STE taking sides. The joint session does not happen, or happens as a polite re-statement of original positions. The teams continue absorbing the conflict for the rest of the PI, and the failure mode escalates to the Director by week 10 — at which point the conversation happens with less of my framing and more of theirs.
+> One or both of HoP and HoA experiences the 1:1 as the STE taking sides. The joint session does not happen, or happens as a polite re-statement of original positions. The teams continue absorbing the conflict for the rest of the PI, and the failure mode escalates to the Director by week 10, at which point the conversation happens with less of my framing and more of theirs.
 >
 > **Cost regardless:**
 >
@@ -98,4 +98,4 @@ Reading: relationship with HoA is the weakest component. A joint workshop now wo
 
 ---
 
-*This example is illustrative. The same scenario, filled in by a different STE, would produce a recognisably different worksheet — and that is the format working as intended.*
+*This example is illustrative. The same scenario, filled in by a different STE, would produce a recognisably different worksheet, and that is the format working as intended.*
