@@ -17,7 +17,6 @@ A repository of artifacts used in real engagements: PI planning rooms, leadershi
 - `scenarios/`: Anonymised situations for coaching sessions and SPC-style training. Each scenario gives the setup, the tensions in play, and discussion prompts. No prescriptive answers.
 - `retrospectives/`: Formats beyond Start/Stop/Continue, with facilitation notes for groups that disagree.
 - `worksheets/`: Conflict maps, stakeholder tension grids, and decision logs as fillable Markdown.
-- `discussion-guides/`: Chapter-by-chapter prompts and a six-week book-club structure.
 - `examples/`: Filled-in versions of the worksheets so the format is unambiguous.
 
 ## How to use it
